@@ -1,4 +1,4 @@
-path: satellite-images-cv
+path: /Users/aelfirdo/Desktop/Hackathon/datasets/satellite-images-cv
 train: ../train/images
 val: ../valid/images
 test: ../test/images

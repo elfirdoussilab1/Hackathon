@@ -1,0 +1,14 @@
+path: datasets/North_African
+train: ../train/images
+val: ../train/images
+test: ../train/images
+
+nc: 1
+names: ['Countryside roofs']
+
+roboflow:
+  workspace: achraf-5vwpe
+  project: north-african-roofs-dataset
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/achraf-5vwpe/north-african-roofs-dataset/dataset/1
