@@ -1,0 +1,14 @@
+path: satellite-images-cv
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['0']
+
+roboflow:
+  workspace: satelliteimagescv
+  project: satellite-images-cv
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/satelliteimagescv/satellite-images-cv/dataset/1
